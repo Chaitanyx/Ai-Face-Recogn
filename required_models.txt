@@ -1,0 +1,14 @@
+tensorflow
+pandas
+keras
+numpy
+jupyter
+notebook
+tqdm
+opencv-contrib-python
+scikit-learn
+pip install nltk transformers torch
+pip install SpeechRecognition librosa pydub
+pip install flask opencv-python numpy keras tensorflow
+pip install SpeechRecognition librosa pydub
+
